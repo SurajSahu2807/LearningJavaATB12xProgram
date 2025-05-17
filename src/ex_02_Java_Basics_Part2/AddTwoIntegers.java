@@ -5,5 +5,4 @@ public class AddTwoIntegers {
         int n = 2+2;
         System.out.println("Total Sum : " + n);
     }
-
 }
