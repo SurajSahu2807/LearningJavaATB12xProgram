@@ -9,7 +9,8 @@ public class Task_MaxBwn_ThreeNum {
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
         int num3 = sc.nextInt();
-        System.out.println("Maximum number out of three is : " + (num1 > num2 ? ( num1 > num3 ? num1 : num3 ) : (num2 > num3 ? num2 : num3 )));
+        System.out.println("Maximum number out of three is : " +
+                (num1 > num2 ? ( num1 > num3 ? num1 : num3 ) : (num2 > num3 ? num2 : num3 )));
 
     }
 }
