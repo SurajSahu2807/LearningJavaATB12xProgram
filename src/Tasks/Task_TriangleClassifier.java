@@ -1,6 +1,6 @@
 package Tasks;
 
-public class TriangleClassifier {
+public class Task_TriangleClassifier {
     public static void main(String[] args){
         // Classification of Triangles
         // logic to solve any of the programming or coding questions.
