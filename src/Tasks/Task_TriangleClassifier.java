@@ -35,5 +35,14 @@ public class Task_TriangleClassifier {
                         (side1 == side3 ? "Isosceles Angle triangle" : "Scalene Triangle")
         );
 
+        /*
+
+        a=11 and b=22 and c == ??   ;;;; a = 13 ; and b = 24
+        c = a + b + a++ + b++ + ++a + ++b;
+        expression and result table
+        11 + 22 + 11 + 22 + 13 + 24
+
+         */
+
     }
 }
