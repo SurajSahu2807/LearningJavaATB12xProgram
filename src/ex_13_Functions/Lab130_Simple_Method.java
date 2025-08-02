@@ -2,7 +2,6 @@ package ex_13_Functions;
 
 public class Lab130_Simple_Method {
     public static void main(String[] args) {
-
         non_Return_Type_function();
         int returnedNumber = return_Type_function();
         System.out.println("Returned Number :- " + returnedNumber);
@@ -24,4 +23,5 @@ public class Lab130_Simple_Method {
         System.out.println("Hii , Return Type Function");
         return 10;
     }
+
 }

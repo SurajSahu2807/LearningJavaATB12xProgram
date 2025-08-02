@@ -2,7 +2,7 @@ package ex_13_Functions;
 
 public class Lab133_InterviewQ {
     public static void main(String[] args) {
-
+        // JVM will search for this signature only
     }
 
     public static void main(String args){

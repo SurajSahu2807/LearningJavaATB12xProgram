@@ -5,7 +5,7 @@ public class Lab129_Method_Functions {
        // Step 1 --> define it
        // Step 2 --> Call it
 
-        //Calling it
+        //Calling the function
         name_of_the_func();
 
 

@@ -20,7 +20,7 @@ public class Lab132_UserDefined_functions_Part1 {
 
     }
 
-    // 1. Without Parameters and Without Return Type
+    // 1. Without Parameters/arguments and Without Return Type
     static void wp_wr_greet(){
         System.out.println("Hii,How are You");
     }
