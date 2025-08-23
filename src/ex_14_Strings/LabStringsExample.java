@@ -10,7 +10,7 @@ public class LabStringsExample {
 
         System.out.println(s.codePointAt(0)); //this will return the Unicode value of character present at 0th index
 
-        // CompareToIgnore(String str)
+        // CompareToIgnoreCase(String str)
         int result = "abc".compareToIgnoreCase("ABC");
         System.out.println(result); // It will return 0 if both are equal and -1 is unequal
         // compareTo(String str)

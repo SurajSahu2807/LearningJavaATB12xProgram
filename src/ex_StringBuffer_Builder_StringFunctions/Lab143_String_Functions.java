@@ -72,7 +72,7 @@ public class Lab143_String_Functions {
 
 
         String s11 = "Pramod";
-        String s21 = s11.concat("Dutta");
+        String s21 = s11.concat("Dutta"); // Takes memory in SCP
         System.out.println(s21);
 
 

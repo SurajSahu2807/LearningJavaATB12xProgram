@@ -24,7 +24,7 @@ public class Lab141_String_Interview_P2 {
         System.out.println(s3.equalsIgnoreCase(s5));
 
         // equalsIgnoreCase --> pramod.equalsIgnoreCase("PRAMOD") --> return --> true
-        // == --> check for the ref
+        // == --> check for the refence address location
         // = assignment the value
 
 
